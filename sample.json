@@ -1,0 +1,105 @@
+{
+    "Skills" : {
+        "img1" : " Assets/icons8-html-48.png",
+        "img2" : " Assets/icons8-css-48.png",
+        "img3" : " Assets/icons8-javascript-48.png",
+        "img4" : " Assets/icons8-bootstrap-48.png",
+        "img5" : " Assets/icons8-angular-48.png",
+        "img6" : " Assets/icons8-typescript-48.png",
+        "img7" : " Assets/icons8-git-48.png",
+        "img8" : " Assets/icons8-github-64.png",
+        "img9" : " Assets/icons8-dbeaver-64.png",
+        "img10": " Assets/icons8-ionic-48.png",
+        "img11": " Assets/icons8-nodejs-48.png",
+        "img12": " Assets/icons8-figma-80.png"
+    },
+    "navigation": [
+        "<strong> Resume </strong>",
+        "<strong> About Me </strong>",
+        "<strong> Achievements </strong>",
+        "<strong> Major Projects</strong>",
+        "<strong> Skills</strong>",
+        "<strong> Experience</strong>",
+        "<strong> Declaration</strong>",
+        "<strong> Educational Background</strong>"
+    ],
+    "prof" :{
+        "0":"Venkadesh J",
+        "1":"Senior Software Engineer",
+        "2":"venkadeshjpm@gmail.com",
+        "3":"+91 9876543210",
+        "4": "Chennai, India",
+        "5":"https:www.linkedin.com/in/venkadeshjpm/"    
+    },
+    "headingExp":{
+        "0":"Experience",
+        "1":"Prodian Infotech Private Limited - Chennai, India <br> Aug 2021 - Present",
+        "2": "<strong> Senior software developer </strong>"
+    },
+    "exp":{
+        "0":"A strong command of HTML5, CSS3, and JavaScript for creating engaging web interfaces.",
+        "1":"Extensive experience in Angular and TypeScript for developing robust applications.",
+        "2":"Proficient knowledge in DBeaver, Git, and GitHub Desktop for efficient version control and database management.",
+        "3":"Expertise in responsive web design to ensure optimal user experiences across various devices.",
+        "4":"A strong analytical mindset, problem-solving skills, and ability to adapt to changing environments.",
+        "5":"Excellent communication and collaboration skills, able to effectively work with a team to deliver high-quality projects.",
+        "6":"A passion for learning and adapting to new technologies, always seeking opportunities to expand my knowledge and skills."
+    },
+    "MajProject" : {
+        "0": "Major Projects",
+        "1": "CHENNAI SUPER KINGS",
+        "2": "Extensive experience in responsive web design and UI development for the CSK project, including API integration using Angular.",
+        "3": "Proficient in HTML, CSS, JavaScript, Bootstrap, and MySQL, with a strong ability in designing and integrating dynamic websites.",
+        "4" : "<strong> SKILLS: HTML, CSS, JavaScript, Angular, Bootstrap, Responsive Web Design, Debugging.</strong>",
+        "5": "JOBURG SUPER KINGS",
+        "6": "<strong> Skills And Knowledge:<strong>",
+        "7": "Expertise in project structure, management, and development from scratch.",
+        "8": "Proficient in Angular (up to version 16) and component-based design",
+        "9": "<strong>Technical Proficiency:<strong>",
+        "10":"Experience with AWS and deployment using Termius.",
+        "11":"Strong team management and communication skills.",
+         "12":"<strong> SKILLS: HTML5, CSS3, JavaScript, Angular, Bootstrap, TypeScript, Angular material, Magento - API integartion, Payment integration.</strong>",
+        "13":"SUPER KINGS ACADEMY",
+        "14":"Developed a mobile app for academy students using module-based routing.",
+        "15":"Gained experience in forms, input validation, project management, and UI design under pressure.",
+        "16":"<strong>SKILLS: HTML5, CSS3, JavaScript, Angular, Bootstrap, TypeScript, NG-Bootstrap, Figma.<strong>",
+        "17":"CSK SHOP - MEGENTO",
+        "18":"Developed the CSK Shop for web and mobile, an e-commerce project for buying CSK products.",
+        "19":"Created a module-based structure in Angular with shared components architecture.",
+        "20":"Designed an attractive UI for product pages to enhance user experience.",
+        "21":"Integrated APIs by consuming Magento APIs using Angular.",
+         "22":"Implemented dynamic forms and validations.",
+         "23":"Completed payment integration for the project.",
+         "24":"<strong> SKILLS: HTML5, CSS3, JavaScript, Angular, Bootstrap, TypeScript, Angular material, Magento - API integartion, Payment integration.<strong>"
+    },
+    "Award" : {
+        "0": "Awards",
+        "1": "As a Software Engineer, I have received Star Performer award for best performance in CSK Project and for showing great focus and dedication in terms of work."
+ },
+    "Edubg": {
+        "0": "Educational Background",
+        "1": "<strong>BE - University College Of Engineering, Dindigul</strong> <br>CGPA- 7.04 <br> 2017 - 2021",
+                     
+                     
+        "2": "<strong>HSC - Vivekananda Matric HR-SEC School, Paundamangalam</strong> <br> Percentage- 90% <br> 2016 - 2017",
+                     
+        "3": "<strong>SSLC - Sun Stars Matric HR-SEC School, Vadakaraiattur</strong> <br> Percentage: 89% <br> 2015 - 2016"                
+    },
+    "PersonInfo":{
+        "0": "Personal Information",
+        "1": "Father's Name : Jaiganesh R",
+        "2": "Mother's Name : Mohana Sundari J",
+        "3": "Languages Known : Tamil, English",
+        "4": "Date of Birth : 24-02-2000",
+        "5": "Hobbies : Exploring new things, To play Cricket,VolleyBall,Badminton"
+    },
+    "declaration" : {
+        "0": "Declaration",
+        "1" : "I here by declared that all the above particular information is true to the best of my knowledge and belief."
+    },
+    "footer" :{
+        "0": "Author: Venkadesh J",
+        "1": "Venkadeshjpm@gmail.com"
+    }
+
+    }
